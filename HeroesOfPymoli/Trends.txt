@@ -1,0 +1,10 @@
+Observations for HerorsOfPymoli
+
+Observation 1:
+The highest number of players lies in the age group of 20-24 and the highest purchase amount was also in the same age group.
+
+Observation 2:
+Males constituted the highest number of players.
+
+Observation 3:
+The top spender in the group spent $18.96 in total and the most purchase Item was purchased 13 times for a total purchase value of $59.99.
